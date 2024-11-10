@@ -1,7 +1,7 @@
 
-Sales Report Project
+**Sales Report Project**
 
-Table of Contents
+**Table of Contents**
 
 About the Project
 
