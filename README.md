@@ -7,22 +7,14 @@ About the Project
 
 Project Goals
 
-Getting Started
-
-How to Use
-
 Visualizations
 
-Contributing
 
-License
-
-
-About the Project
+**About the Project**
 
 The Sales Report project provides a comprehensive, automated report of sales data, helping businesses understand and track sales performance through a mix of data analysis and visualization. This project is particularly useful for identifying trends, understanding customer buying behavior, and determining which products perform best. With data-driven insights presented in an easily interpretable format, the project allows users to make informed decisions, optimize sales strategies, and improve revenue outcomes. By offering a structured approach to data analysis, this project can save time and improve accuracy in generating regular sales reports.
 
-Project Goals
+**Project Goals**
 
 The main objectives of this project are:
 
@@ -48,7 +40,7 @@ The dashboard provides visual representations of key metrics, such as sales tren
 
 
 
-Visualizations
+**Visualizations**
 
 The Sales Report project includes a variety of visualizations to help make data interpretation simple and effective. Key visualizations available in this project include:
 
